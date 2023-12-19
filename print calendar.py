@@ -1,4 +1,4 @@
-#Program to print calendar of given year 144
+#Program to print calendar of given year
 import calendar_pro as cp
-yyyy=int(input("Enter year: "))
-cp.printyear(yyyy)
+year=int(input("Enter year: "))
+cp.printyear(year)
